@@ -43,7 +43,7 @@ Before running the project, ensure you have the following installed:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/stripe-payment-integration.git
+    git clone https://github.com/awaisCh07/stripe_flutter.git
     ```
    
 2. **Install Dependencies:**
@@ -55,7 +55,7 @@ Before running the project, ensure you have the following installed:
 3. **Set Up Stripe API Keys:**
     - Create an account on [Stripe](https://stripe.com/).
     - Get your API keys from the Stripe Dashboard.
-    - Update the API keys in your project (`lib/constants/stripe_keys.dart` or wherever you handle your Stripe configuration).
+    - Update the API keys in your project (`.env` or wherever you handle your Stripe configuration).
 
 4. **Run the App:**
     ```bash
@@ -86,4 +86,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ## 👩‍💻 Authors -
-- [Snehasis4321](https://github.com/Snehasis4321)
+- [AwaisChaudhry](https://github.com/awaisCh07)
