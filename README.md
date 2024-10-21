@@ -1,6 +1,6 @@
 
 ![STRIPE-PAYMENT2](https://github.com/Snehasis4321/stripe_payment_flutter/assets/96995340/d8b683d4-202c-4ddf-929f-f1951cbe4378)
-https://raw.githubusercontent.com/awaisCh07/stripe_flutter/refs/heads/main/assets/image.webp
+![STRIPE-PAYMENT2](https://raw.githubusercontent.com/awaisCh07/stripe_flutter/refs/heads/main/assets/image.webp).
 
 # Stripe Payment Flutter
 
