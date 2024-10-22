@@ -6,7 +6,7 @@ This repository demonstrates how to integrate Stripe payments into a Flutter app
 ## ✅ Important -
 the `.env` file is not included , please use your own secret keys by creating a free [**stripe account**](https://dashboard.stripe.com/register)
 
-`.env` file will be like this - 
+`.env` file will be like this -
 ```.env
 STRIPE_PUBLISH_KEY="pk_test_..."  // Replace this with your own key
 STRIPE_SECRET_KEY="sk_test_..."   // Replace this with your own key
@@ -45,9 +45,9 @@ Before running the project, ensure you have the following installed:
     ```bash
     git clone https://github.com/awaisCh07/stripe_flutter.git
     ```
-   
+
 2. **Install Dependencies:**
-    Navigate to the project folder and install required dependencies.
+   Navigate to the project folder and install required dependencies.
     ```bash
     flutter pub get
     ```
@@ -65,11 +65,11 @@ Before running the project, ensure you have the following installed:
 ## Usage
 
 1. **Payment Flow:**
-   - Users can input their card details and proceed with payments.
-   - The app securely sends payment details to the Stripe server and processes the transaction.
-   
+    - Users can input their card details and proceed with payments.
+    - The app securely sends payment details to the Stripe server and processes the transaction.
+
 2. **Testing:**
-   - Use Stripe’s [test card numbers](https://stripe.com/docs/testing) for testing payments in development mode.
+    - Use Stripe’s [test card numbers](https://stripe.com/docs/testing) for testing payments in development mode.
 
 
 ## Contributing

@@ -20,7 +20,7 @@ Future createPaymentIntent({
     'amount': amount,
     'currency': currency.toLowerCase(),
     'automatic_payment_methods[enabled]': 'true',
-    'description': "Test Donation",
+    'description': "Demo Project",
     'shipping[name]': name,
     'shipping[address][line1]': address,
     'shipping[address][postal_code]': pin,
